@@ -1,5 +1,4 @@
 # Writer
 WinForm приложение пишет заданную строку в определённый файл.
 
-![screenshot]()
-
+![screenshot](https://github.com/lobkovs/Writer/blob/master/screenshot.png?raw=true)
